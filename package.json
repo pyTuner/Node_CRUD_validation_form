@@ -1,0 +1,19 @@
+{
+  "name": "node_crud_validation",
+  "version": "1.0.0",
+  "description": "node api with validation | database: mongodb",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodeGo"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pyTuner/Node_CRUD_validation.git"
+  },
+  "author": "tejas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pyTuner/Node_CRUD_validation/issues"
+  },
+  "homepage": "https://github.com/pyTuner/Node_CRUD_validation#readme"
+}
