@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/pyTuner/Node_CRUD_validation/issues"
   },
-  "homepage": "https://github.com/pyTuner/Node_CRUD_validation#readme"
+  "homepage": "https://github.com/pyTuner/Node_CRUD_validation#readme",
+  "dependencies": {
+    "mongoose": "^7.4.0"
+  }
 }
